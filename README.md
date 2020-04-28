@@ -1,2 +1,2 @@
 # bigbenkatarsrsimongame
-https://nebgibz.github.io/bigbenkatarsrsimongame/.
+https://nebgibz.github.io/simongame/
