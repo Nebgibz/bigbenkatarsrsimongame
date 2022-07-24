@@ -1,2 +1,2 @@
 # bigbenkatarsrsimongame
-https://nebgibz.github.io/simongame/
+[https://quriousman.github.io/simongame/](https://quriousman.github.io/simongame/)
